@@ -1,0 +1,11 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "Node.js File System Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Varun Galgali",
+  "license": "ISC"
+}
